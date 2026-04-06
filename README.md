@@ -156,10 +156,5 @@ The tuned model generalizes significantly better than the default configuration.
 ## Author
 
 Sahand Yousefi
-[GitHub](https://github.com/sahandyousefi) | [LinkedIn](https://www.linkedin.com/in/sahandyousefi)
+[GitHub](https://github.com/sahandyousefi) | [LinkedIn](https://www.linkedin.com/in/sahand-yousefi/)
 
----
-
-## License
-
-This project is open-source and available for educational and reference purposes.
